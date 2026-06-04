@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables (keep your API keys safe)
+.env
+
+# ChromaDB data
+data/chroma_db/
+data/uploads/
+
+# Node modules
+frontend/node_modules/
+frontend/dist/
+
+# VS Code
+.vscode/
